@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mampiherika
 - 👀 I’m interested in web developement
--  🌱 I’m currently learning php and js.
+- 🌱 I’m currently learning php and js.
 
 
 <!---
