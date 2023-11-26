@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mampiherika
 - 👀 I’m interested in web developement
-- - 🌱 I’m currently learning php ande js.
--
+-  🌱 I’m currently learning php and js.
+
 
 <!---
 Mampiherika/Mampiherika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
