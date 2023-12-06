@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mampiherika
+- 👋 Hi, I’m Mampiherika
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning php and js.
 
